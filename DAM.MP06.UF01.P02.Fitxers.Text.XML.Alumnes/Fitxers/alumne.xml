@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="22.0.2" class="java.beans.XMLDecoder">
+ <object class="Alumne">
+  <void property="cognom1">
+   <string>Garcia</string>
+  </void>
+  <void property="cognom2">
+   <string>Martí</string>
+  </void>
+  <void property="id">
+   <int>1</int>
+  </void>
+  <void property="nom">
+   <string>Joan</string>
+  </void>
+  <void property="notaAcces">
+   <double>8.5</double>
+  </void>
+ </object>
+</java>
